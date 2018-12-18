@@ -1,0 +1,6 @@
+primeira alteração
+
+enviar email{
+	dest = romario.hehehe@hehehe
+	template = hhhh
+}
